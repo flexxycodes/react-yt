@@ -10,7 +10,7 @@ const App = () => {
           <button>Save</button>
         </div>
         <div className="center">
-          <h3>Amazon</h3> <span>5 days ago</span>
+          <h3>Amazon</h3><span>5 days ago</span>
           <h2>Senior UI/UX Designer</h2>
           <div className="tag">
             <h4>Part-Time</h4>
