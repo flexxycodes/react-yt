@@ -10,15 +10,12 @@ body {
     height: 100%;
     width: 100%;
 }
-body{
- padding: 20px;
-}
-
 
 .parent{
     height: 100vh;
     width: 100%;
     background-color: #111;
+    padding: 30px;
 }
 
 .card{

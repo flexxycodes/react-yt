@@ -6,7 +6,7 @@ const App = () => {
     <div className="parent">
       <div className="card">
         <div className="top">
-          
+          <FontAwesomeIcon icon={["fas", "bookmark"]}/>
         </div>
       </div>
     </div>
