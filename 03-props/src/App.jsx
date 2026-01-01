@@ -19,13 +19,10 @@ const App = () => {
         </div>
         <div className="bottom">
           <div>
-            <div>
               <h3>120$/hr</h3>
               <p>San-Fransisco</p>
             </div>
-            <button>Apply Now
-            </button>
-          </div>
+            <button>Apply Now</button>
         </div>
       </div>
     </div>
