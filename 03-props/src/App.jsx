@@ -4,7 +4,11 @@ import Card from './components/Card'
 const App = () => {
   return (
     <div className="parent">
-    <div className="top"> </div>
+      <div className="card">
+        <div className="top">
+          
+        </div>
+      </div>
     </div>
   )
 }

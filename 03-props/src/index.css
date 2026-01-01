@@ -11,15 +11,20 @@ body {
     width: 100%;
 }
 body{
-  background-color: #111;
-  padding: 20px;
+ padding: 20px;
 }
 
 
 .parent{
+    height: 100vh;
+    width: 100%;
+    background-color: #111;
+}
+
+.card{
     height: 400px;
     width: 300px;
     background-color: #fff;
     border-radius: 30px;
-}
+} 
   
