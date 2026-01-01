@@ -3,7 +3,8 @@ import Card from './components/Card'
 
 const App = () => {
   return (
-    <div>
+    <div className="parent">
+    <div className="top"> </div>
     </div>
   )
 }
