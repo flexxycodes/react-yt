@@ -5,6 +5,7 @@ import Section2 from './components/Section2/Section2'
 
 const App = () => {
   return <div>
+    hi
     <Section1 />
     <Section2 />
   </div>
