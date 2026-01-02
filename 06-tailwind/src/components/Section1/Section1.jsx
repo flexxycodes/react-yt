@@ -1,10 +1,9 @@
+import React from 'react';
 
-
-// Usage
 const Section1 = () => {
   return(
   <div className='h-screen w-full bg-blue-100'>
-    Section 1
+    <h1>Section 1</h1>
   </div>
   )
 };
