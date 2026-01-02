@@ -6,12 +6,12 @@ const LeftContent = () => {
   return(
     <div className='bg-black h-full flex flex-col justify-between w-1/3 px-4'>
       <div>
-        <h3 className='mb-5 text-6xl font-bold'> Prospective <br/><span>Customer</span> <br/> Segmentation</h3>
+        <h3 className='mb-5 text-4xl font-bold'> Prospective <br/><span>Customer</span> <br/> Segmentation</h3>
         <p className='text-xl'>
           jekevkeisgevsksk iegevske isgejek isheje oehev keh
         </p>
       </div>
-      <div className='text-8xl'>
+      <div className='text-12xl'>
         <ArrowUpRight />
       </div>
     </div>
