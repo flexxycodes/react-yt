@@ -1,5 +1,5 @@
 import React from 'react';
-import Navbar from './components/Section1/Navbar'
+import Navbar from './Navbar'
 
 const Section1 = () => {
   return(
