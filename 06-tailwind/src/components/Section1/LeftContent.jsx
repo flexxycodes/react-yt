@@ -4,7 +4,7 @@ import { ArrowUpRight } from 'lucide-react';
 
 const LeftContent = () => {
   return(
-    <div className='h-full flex flex-col justify-between w-2/4 bg-yellow-200'>
+    <div className='h-full flex flex-col justify-between w-1/3 px-4'>
       <div>
         <h3 className='mb-5 text-6xl font-bold'> Prospective <br/><span>Customer</span> <br/> Segmentation</h3>
         <p className='text-xl'>
