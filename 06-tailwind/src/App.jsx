@@ -1,12 +1,8 @@
-import React from 'react'
+import { Camera } from 'lucide-react';
 
+// Usage
 const App = () => {
-  return (
-    <div className='h-screen w-full bg-blue-50'>
-      <h1> Heyyy!!</h1>
-      
-    </div>
-  )
-}
+  return <Camera color="red" size={48} />;
+};
 
-export default App
+export default App;
