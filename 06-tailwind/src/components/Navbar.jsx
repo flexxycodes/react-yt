@@ -12,7 +12,6 @@ export default function Navbar() {
           <span className="w-5 h-0.5 bg-black"></span>
           <span className="w-5 h-0.5 bg-black"></span>
         </button>
-
       </nav>
     </div>
   );
