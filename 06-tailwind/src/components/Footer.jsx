@@ -30,7 +30,7 @@ export default function Footer() {
         </div>
       </div>
 
-      <div className="flex justify-between text-xs text-gray-500 mt-12">
+      <div className="flex justify-between text-xs text-gray-500 mt-12 bg-black">
         <span>© Mobbin 2018–2026</span>
         <div className="flex gap-4">
           <span>Privacy Policy</span>
