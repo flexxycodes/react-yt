@@ -1,14 +1,17 @@
-import Section1 from './components/Section1/Navbar'
-import Section2 from './components/Section2/Section2'
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import Stats from "./components/Stats";
+import Browse from "./components/Browse";
+import Footer from "./components/Footer";
 
-const App = () => {
-
+export default function App() {
   return (
-    <div>
+    <div className="w-full min-h-screen flex flex-col">
       <Navbar />
-      <Section2 />
+      <Hero />
+      <Stats />
+      <Browse />
+      <Footer />
     </div>
-  )
+  );
 }
-
-export default App
