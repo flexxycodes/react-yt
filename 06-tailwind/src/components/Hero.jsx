@@ -1,7 +1,9 @@
 export default function Hero() {
   return (
     <section className="flex flex-col items-center text-center px-6 py-20 gap-6">
-      <div className="w-20 h-20 rounded-xl bg-gray-200"></div>
+      <div className="w-20 h-20 rounded-xl bg-gray-200">
+        <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkYv0WpaaokK4puhnqruFDEbfCp5ifESYdbsKZmQNUYg&s'></img>
+      </div>
 
       <h1 className="text-4xl font-bold">
         Discover real-world design inspiration.
